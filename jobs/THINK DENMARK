@@ -1,0 +1,22 @@
+---
+title: <EATING C# FOR BREAKFAST? THINK DENMARK AND JOIN ONE OF THE BEST TEST MARKETS FOR COMPLEX SOFTWARE SOLUTIONS>
+company: <Think Denmark>
+url: http://<express.candarine.com/campaign/url/forward/c7ab8eda76dc>
+location: <Denmark>
+# Choose one of the following options
+contract: permanent 
+contact:
+    name: <Rima>
+    email: <rima@candarine.com>
+      <additional contact fields>: <additional value>
+created: !!timestamp '2015-11-30' # Update this with today's date
+tags:
+  - python
+  - sql
+  - django 
+  # include relevant tags
+---
+
+# This is a header
+
+Full job description here, in Markdown format
